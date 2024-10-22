@@ -5,7 +5,7 @@ bot:
   PREFIX: '?'
   EMBED_COLOR: '#ff0000'
   OWNERS: ['870179991462236170']
-  MONGO: 'mongodb+srv://jeet:jeet12@security.rg97z.mongodb.net/?retryWrites=true&w=majority&appName=Security'
+  MONGO: 'mongodb+srv://razexelite11:spekbot@spek.dl9mwva.mongodb.net'
 links:
   INVITE: 'https://discord.com/oauth2/authorize?client_id=1297644501502005389&permissions=8&scope=applications.commands%20bot'
   SUPPORT: 'https://discord.gg/rvSGGKsUBk'
